@@ -86,5 +86,7 @@ Such projects are foundational for anyone learning C and help in building confid
 This task gave me a good understanding of how software applications manage files behind the scenes, and I believe it will be very useful for my future academic and real-world programming work.
 
 
+#OUTPUT:![Image](https://github.com/user-attachments/assets/b4f8c4ca-078b-4e56-b836-1d5d394d02de)
+
 
 
